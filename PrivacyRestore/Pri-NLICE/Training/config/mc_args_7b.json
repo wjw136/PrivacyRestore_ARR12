@@ -1,0 +1,12 @@
+{
+    "seed": 42,
+
+    "model_name_or_path": "",
+    "bank_interventions_dir": "",
+    "epsilon": 75,
+
+    "auxiliary_model_type": "bert",
+    "auxiliary_model_name_or_path": "",
+
+    "data_path": ""
+}
